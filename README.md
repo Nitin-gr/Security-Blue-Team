@@ -18,6 +18,6 @@ Welcome to the solutions repository for the free courses offered by Security Blu
 
 ## Disclaimer
 
-This repository is not affiliated with [Course Provider], and the solutions provided are solely for educational purposes. Always ensure that you follow the course's code of conduct and integrity policies.
+This repository is not affiliated with security blue team and the solutions provided are solely for educational purposes. Always ensure that you follow the course's code of conduct and integrity policies.
 
 Remember, learning is about understanding and growing, not just finding the answer. Happy learning!
